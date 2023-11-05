@@ -13,7 +13,7 @@ ls data/
 Open ingest.py.ipynb with jupyter notebook and exectute it
 
 ### 3. 執行對話
-Open model.py.ipynb with jupyter notebook and exectute it
+Open model.ipynb with jupyter notebook and exectute it
 
 ### 4. 問題範例
 ```
